@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Window-Resizer-React-App/static/css/main.c4104ac9.css",
+    "main.js": "/Window-Resizer-React-App/static/js/main.4e354d69.js",
+    "static/js/787.d3eb80ff.chunk.js": "/Window-Resizer-React-App/static/js/787.d3eb80ff.chunk.js",
+    "index.html": "/Window-Resizer-React-App/index.html",
+    "main.c4104ac9.css.map": "/Window-Resizer-React-App/static/css/main.c4104ac9.css.map",
+    "main.4e354d69.js.map": "/Window-Resizer-React-App/static/js/main.4e354d69.js.map",
+    "787.d3eb80ff.chunk.js.map": "/Window-Resizer-React-App/static/js/787.d3eb80ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4104ac9.css",
+    "static/js/main.4e354d69.js"
+  ]
+}
